@@ -15,6 +15,7 @@ public class Pattern_Task {
                 System.out.print("*");
             }
             System.out.println(" ");
+
         }
     }
 }
